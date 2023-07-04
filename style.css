@@ -1,4 +1,51 @@
-body{
+body {
 
     font-family: 'Belanosima', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.orang-color {
+
+    color: orange;
+}
+
+.main-part {
+
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+
+.half-width {
+
+    width: 50%;
+    padding: 5%;
+}
+
+.half-width img {
+
+    width: 80%;
+}
+
+.link-button {
+
+    text-decoration: none;
+    padding: 10px;
+    background-image: linear-gradient(rgb(250, 164, 6), rgba(238, 45, 11, 0.521));
+    color: aliceblue;
+
+    border-radius: 5px;
+    margin: 5px;
+
+}
+
+.here-button {
+
+    margin: 50px 0px;
 }
