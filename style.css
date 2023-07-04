@@ -49,3 +49,13 @@ h1 {
 
     margin: 50px 0px;
 }
+
+.dream-part {
+
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+
+}
